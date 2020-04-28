@@ -1,0 +1,2 @@
+cd $PREFIX/share
+bash main.sh
